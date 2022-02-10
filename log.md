@@ -18,7 +18,7 @@ Today's study session included:
 ### Day 2: February 10, 2022
 
 **Today's Progress**: Spent Some time learning about intermediate bootstrap and learnt a  
-Thoughts: Web Dev=copy pasting right things from google..:p
+Thoughts: Web Dev=copy pasting right things from google.. :p
 
 
 Today's study session included: 
