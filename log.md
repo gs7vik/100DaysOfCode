@@ -34,11 +34,5 @@ Today's study session included:
     ```
     
     
-```js
-const = [2, 3, 4];
-const a = arr[0]; // 2
-const b = arr[1]; // 3
-const c = arr[2]; // 4
-```
-    
+
 
