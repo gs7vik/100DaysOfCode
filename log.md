@@ -23,8 +23,9 @@ Thoughts: Web Dev=copy pasting right things from google..:p
 
 Today's study session included: 
     1. Styling Tindog website using Bootstrap carousels and cards. 
-    when carousel slider doesnt work there might be version conflicts in bootstrap or javascript functionality which slides the image might not be present so to add to that we use 
-    the following code.
+       when carousel slider doesnt work there might be version conflicts in bootstrap or javascript functionality which slides the image might not be present so to add to that        we use the following code.
+    
+    
     ```js
     <!-- the below three scripts were added as carousel slider was not working. -->
   <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
