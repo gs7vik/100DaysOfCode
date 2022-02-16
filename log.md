@@ -34,6 +34,11 @@ Today's study session included:
     ```
 -----------------------------------------------------------------------------------------------------------------
 ### Day 3: February 11, 2022
+**Today's Progress**: learnt stack framing and z-index in bootstrap
 
+z-index is 0 by default
+if an element's z-index is greater than another element then it will be displayed nearer to the user(Away from the screen).
+z-index can be only used with absolute or relative positioning.
+-----------------------------------------------------------------------------------------------------------------
 
 
