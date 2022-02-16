@@ -39,6 +39,15 @@ Today's study session included:
 z-index is 0 by default
 if an element's z-index is greater than another element then it will be displayed nearer to the user(Away from the screen).
 z-index can be only used with absolute or relative positioning.
+
 -----------------------------------------------------------------------------------------------------------------
+
+### Day 4: February 12, 2022
+
+**Today's Progress**: Implemented insertion sort
+
+-----------------------------------------------------------------------------------------------------------------
+
+### Day 5: February 16, 2022
 
 
