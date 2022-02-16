@@ -50,4 +50,11 @@ z-index can be only used with absolute or relative positioning.
 
 ### Day 5: February 16, 2022
 
+**Today's Progress**: learnt about media query ...
+
+syntax:   @media (properties) 
+example: @media (max-width:990px)
+in the above example the changes takes place in website when the width of browser becomes less than 990px.
+
+
 
