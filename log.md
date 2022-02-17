@@ -55,6 +55,8 @@ z-index can be only used with absolute or relative positioning.
 syntax:   @media (properties) 
 example: @media (max-width:990px)
 in the above example the changes takes place in website when the width of browser becomes less than 990px.
+learnt about the importance of refactoring the code...to increase readability, modularity,efficiency,length.
+
 
 
 
